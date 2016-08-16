@@ -17,7 +17,7 @@ which is found in the `thisdata.inc` file.
 
 Find the place in your login script where a user is authenticated.
 
-If authentication is successfull then track a `log-in` action.
+If authentication is successful then track a `log-in` action.
 
 If authentication fails track `log-in-denied`
 
